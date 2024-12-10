@@ -1,0 +1,7 @@
+C:\Users\justi\Downloads\classe\classe\obj\Debug\classe.csproj.AssemblyReference.cache
+C:\Users\justi\Downloads\classe\classe\obj\Debug\classe.csproj.CoreCompileInputs.cache
+C:\Users\justi\Downloads\classe\classe\bin\Debug\classe.exe.config
+C:\Users\justi\Downloads\classe\classe\bin\Debug\classe.exe
+C:\Users\justi\Downloads\classe\classe\bin\Debug\classe.pdb
+C:\Users\justi\Downloads\classe\classe\obj\Debug\classe.exe
+C:\Users\justi\Downloads\classe\classe\obj\Debug\classe.pdb
