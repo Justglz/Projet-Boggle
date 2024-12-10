@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Steven\\Documents\\GitHub\\Projet-A2_S1\\Projet-A2_S1\\Projet-Boggle\\classe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4349156-1AE1-4BEB-A23C-A222A98ABEC0}|classe\\classe.csproj|c:\\users\\steven\\documents\\github\\projet-a2_s1\\projet-a2_s1\\projet-boggle\\classe\\classe\\nuage de mots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4349156-1AE1-4BEB-A23C-A222A98ABEC0}|classe\\classe.csproj|solutionrelative:classe\\nuage de mots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4349156-1AE1-4BEB-A23C-A222A98ABEC0}|classe\\classe.csproj|C:\\Users\\Steven\\Documents\\GitHub\\Projet-A2_S1\\Projet-A2_S1\\Projet-Boggle\\classe\\classe\\joueur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4349156-1AE1-4BEB-A23C-A222A98ABEC0}|classe\\classe.csproj|solutionrelative:classe\\joueur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4349156-1AE1-4BEB-A23C-A222A98ABEC0}|classe\\classe.csproj|c:\\users\\steven\\documents\\github\\projet-a2_s1\\projet-a2_s1\\projet-boggle\\classe\\classe\\jeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4349156-1AE1-4BEB-A23C-A222A98ABEC0}|classe\\classe.csproj|solutionrelative:classe\\jeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4349156-1AE1-4BEB-A23C-A222A98ABEC0}|classe\\classe.csproj|C:\\Users\\Steven\\Documents\\GitHub\\Projet-A2_S1\\Projet-A2_S1\\Projet-Boggle\\classe\\classe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4349156-1AE1-4BEB-A23C-A222A98ABEC0}|classe\\classe.csproj|solutionrelative:classe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4349156-1AE1-4BEB-A23C-A222A98ABEC0}|classe\\classe.csproj|C:\\Users\\Steven\\Documents\\GitHub\\Projet-A2_S1\\Projet-A2_S1\\Projet-Boggle\\classe\\classe\\plateau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4349156-1AE1-4BEB-A23C-A222A98ABEC0}|classe\\classe.csproj|solutionrelative:classe\\plateau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4349156-1AE1-4BEB-A23C-A222A98ABEC0}|classe\\classe.csproj|C:\\Users\\Steven\\Documents\\GitHub\\Projet-A2_S1\\Projet-A2_S1\\Projet-Boggle\\classe\\classe\\de.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4349156-1AE1-4BEB-A23C-A222A98ABEC0}|classe\\classe.csproj|solutionrelative:classe\\de.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4349156-1AE1-4BEB-A23C-A222A98ABEC0}|classe\\classe.csproj|C:\\Users\\Steven\\Documents\\GitHub\\Projet-A2_S1\\Projet-A2_S1\\Projet-Boggle\\classe\\classe\\dictionnaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4349156-1AE1-4BEB-A23C-A222A98ABEC0}|classe\\classe.csproj|solutionrelative:classe\\dictionnaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Nuage de mots.cs",
+              "DocumentMoniker": "C:\\Users\\Steven\\Documents\\GitHub\\Projet-A2_S1\\Projet-A2_S1\\Projet-Boggle\\classe\\classe\\Nuage de mots.cs",
+              "RelativeDocumentMoniker": "classe\\Nuage de mots.cs",
+              "ToolTip": "C:\\Users\\Steven\\Documents\\GitHub\\Projet-A2_S1\\Projet-A2_S1\\Projet-Boggle\\classe\\classe\\Nuage de mots.cs",
+              "RelativeToolTip": "classe\\Nuage de mots.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:39:00.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Jeu.cs",
+              "DocumentMoniker": "C:\\Users\\Steven\\Documents\\GitHub\\Projet-A2_S1\\Projet-A2_S1\\Projet-Boggle\\classe\\classe\\Jeu.cs",
+              "RelativeDocumentMoniker": "classe\\Jeu.cs",
+              "ToolTip": "C:\\Users\\Steven\\Documents\\GitHub\\Projet-A2_S1\\Projet-A2_S1\\Projet-Boggle\\classe\\classe\\Jeu.cs",
+              "RelativeToolTip": "classe\\Jeu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:38:20.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "plateau.cs",
+              "DocumentMoniker": "C:\\Users\\Steven\\Documents\\GitHub\\Projet-A2_S1\\Projet-A2_S1\\Projet-Boggle\\classe\\classe\\plateau.cs",
+              "RelativeDocumentMoniker": "classe\\plateau.cs",
+              "ToolTip": "C:\\Users\\Steven\\Documents\\GitHub\\Projet-A2_S1\\Projet-A2_S1\\Projet-Boggle\\classe\\classe\\plateau.cs",
+              "RelativeToolTip": "classe\\plateau.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:38:20.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Joueur.cs",
+              "DocumentMoniker": "C:\\Users\\Steven\\Documents\\GitHub\\Projet-A2_S1\\Projet-A2_S1\\Projet-Boggle\\classe\\classe\\Joueur.cs",
+              "RelativeDocumentMoniker": "classe\\Joueur.cs",
+              "ToolTip": "C:\\Users\\Steven\\Documents\\GitHub\\Projet-A2_S1\\Projet-A2_S1\\Projet-Boggle\\classe\\classe\\Joueur.cs",
+              "RelativeToolTip": "classe\\Joueur.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAwwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:38:20.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Steven\\Documents\\GitHub\\Projet-A2_S1\\Projet-A2_S1\\Projet-Boggle\\classe\\classe\\Program.cs",
+              "RelativeDocumentMoniker": "classe\\Program.cs",
+              "ToolTip": "C:\\Users\\Steven\\Documents\\GitHub\\Projet-A2_S1\\Projet-A2_S1\\Projet-Boggle\\classe\\classe\\Program.cs",
+              "RelativeToolTip": "classe\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:38:20.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DE.cs",
+              "DocumentMoniker": "C:\\Users\\Steven\\Documents\\GitHub\\Projet-A2_S1\\Projet-A2_S1\\Projet-Boggle\\classe\\classe\\DE.cs",
+              "RelativeDocumentMoniker": "classe\\DE.cs",
+              "ToolTip": "C:\\Users\\Steven\\Documents\\GitHub\\Projet-A2_S1\\Projet-A2_S1\\Projet-Boggle\\classe\\classe\\DE.cs",
+              "RelativeToolTip": "classe\\DE.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:38:20.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dictionnaire.cs",
+              "DocumentMoniker": "C:\\Users\\Steven\\Documents\\GitHub\\Projet-A2_S1\\Projet-A2_S1\\Projet-Boggle\\classe\\classe\\Dictionnaire.cs",
+              "RelativeDocumentMoniker": "classe\\Dictionnaire.cs",
+              "ToolTip": "C:\\Users\\Steven\\Documents\\GitHub\\Projet-A2_S1\\Projet-A2_S1\\Projet-Boggle\\classe\\classe\\Dictionnaire.cs",
+              "RelativeToolTip": "classe\\Dictionnaire.cs",
+              "ViewState": "AQIAANwAAAAAAAAAAAAswFABAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:38:20.76Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
